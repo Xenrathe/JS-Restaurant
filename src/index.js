@@ -23,4 +23,4 @@ imageOverlay.addEventListener('click', () => {
 });
 
 //Initialize upon page load
-tab_drink(contentTab);
+tab_about(contentTab);
